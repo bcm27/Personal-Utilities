@@ -1,1 +1,36 @@
-# Personal-Utilities
+You will need windows program manager (aka it comes with win11 or just download it from the win store if youre win10) to use this. Here is a list of the programs!
+
+# Personal-Utilities-Dev
+- Search Everything
+- Discord
+- Spotify
+- Steam
+- VLC Media Player
+- Notion
+- Bulk Crap Uninstaller
+- Powershell 7
+- PowerToys
+- EarTrumpet
+- 7zip
+- Firefox
+- SumatraPDF
+- Ditto
+- Dropdob
+- Google Drive
+- Windows Terminal
+- Visual Studio Code
+- Git + Git LFG
+- JetBeans Toolbox
+- Putty
+- Win SCP
+- Bitwarden
+- Markdown Monster
+- Audacity
+- ShareX
+- qBitTorrent
+- Malwarebytes
+- CrystalDisk Info
+- CrystalDisk Mark
+- Python 3
+- .Net Framework
+- WhatsApp
